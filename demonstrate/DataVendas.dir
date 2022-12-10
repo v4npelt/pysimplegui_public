@@ -1,0 +1,6 @@
+'produtos', (0, 6)
+'preco', (512, 6)
+'quantidade', (1024, 6)
+'itensVendidos', (1536, 6)
+'apurado', (2048, 5)
+'quantidadeVendida', (2560, 5)
