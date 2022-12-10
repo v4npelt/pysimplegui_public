@@ -70,7 +70,7 @@ class TelaPython:
       
             ]
         # Janela Inicial
-        self.janela = sg.Window("Dados do Usuário", location=(0,0), size=(1350,700), resizable=True).layout(layout)
+        self.janela = sg.Window("Dados dos Usuários", location=(0,0), size=(1350,700), resizable=True).layout(layout)
     
  
     def Iniciar(self):
